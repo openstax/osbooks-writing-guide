@@ -44,10 +44,10 @@
       <item>What conflict did you face?</item>
       <item>What images come to mind when you think of this event?</item>
       </list>
-      <para class="annotation kinesthetic-icon" id="para-00006">Then, begin to isolate details to create a plot diagram. Remember, following a plot diagram involves focusing on the building of tension surrounding the conflict in a story and then resolving it in a meaningful way. </para><!--
+      <para class="annotation kinesthetic-icon" id="para-00006">Then, begin to isolate details to create a plot diagram. Remember, following a plot diagram involves focusing on the building of tension surrounding the conflict in a story and then resolving it in a meaningful way. </para>
       <media alt="atoms_isotopes">
       <iframe width="660" height="371.4" src="../../media/Interactive/090221_opx_comp_ch04_1a_drag_and_drop_labeling/index.html"/>
-      </media>-->
+      </media>
       </section>
       <section class="drafting" id="sect-00005">
       <title>Conflict, Point of View, Organization, and Reflection</title>
@@ -77,11 +77,11 @@
       <tgroup cols="2">
         <colspec colnum="1" colname="c1" colwidth="1*"/>
         <colspec colnum="2" colname="c2" colwidth="1*"/>
-      <tbody>
+
         <thead><row>
           <entry align="center" namest="c1" nameend="c2">Basic Story Elements</entry>
           </row></thead>
-      
+          <tbody>
       <row>
       <entry><emphasis effect="bold">Purpose</emphasis></entry>
       <entry/>
@@ -157,7 +157,7 @@
       <entry>Passive Voice</entry>
       </row></thead>
       <tbody>
-      
+
       <row>
       <entry>I devoured the silky pudding.</entry>
       <entry>The silky pudding was devoured by me.</entry>
