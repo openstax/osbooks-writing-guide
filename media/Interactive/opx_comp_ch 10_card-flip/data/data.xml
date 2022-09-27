@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Claims and Counterclaims</title>
+  <instruction>First, read the claim and the potential counterclaim. Decide if the counterclaim is reasonable. Then, click each card to check your evaluation. Replay this interaction as many times as you need. There is no time limit. This activity is not graded.</instruction>
+  <items>
+    <item>
+      <front>
+        <text><p>Vaccines against COVID-19 should be mandated.</p><p>No one has the right to mandate what goes into an individual's body.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on the right of the government to mandate health issues.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Content on YouTube should be well regulated.</p><p>Freedom of speech means that regulations on social media platforms should not be tightened.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on whether speech can and should be regulated.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Parents should be able to modify fetuses, if desired.</p><p> An unborn child is exactly the way God intended the child to be.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on the development of fetuses.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>College athletes should not be paid.</p><p>Many college athletes are already paid via scholarship money.</p></text>
+      </front>
+      <back>      
+        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement supports the first.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Minors should be allowed to buy birth control.</p><p>Minors should not be engaging in sexual intercourse.</p></text>
+      </front>
+      <back>      
+        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement offers a second claim.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>US immigration laws should be changed.</p><p>Existing laws are adequate and ensure the safety of current citizens.</p></text>
+      </front>
+      <back>
+        <text><p>Yes, this is a reasonable counterclaim.</p><p>Both statements focus on immigration law.</p></text>
+      </back>
+    </item>
+    <item>
+      <front>
+        <text><p>Public colleges should be free to attend.</p><p>Everyone should go to college.</p></text>
+      </front>
+      <back>      
+        <text><p>No, this is not a reasonable counterclaim.</p><p>The second statement offers a second claim.</p></text>
+      </back>
+    </item>
+  </items>
+  
+</dataset>

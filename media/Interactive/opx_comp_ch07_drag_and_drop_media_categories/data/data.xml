@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<title>Summary or Evaluation?</title>
+<instruction>
+    <instructionnorm>To complete the activity, select each statement at the top, then click its category below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instructionnorm>
+</instruction>
+  <category>
+      <categorytitle cat="one">Summary/ Observation</categorytitle>
+      <categorytitle cat="two">Evaluation/ Analysis</categorytitle>
+       <!-- <categorytitle cat="three">Rebecca Bunch is relatable because the Rebecca Bunch is relat</categorytitle>  -->
+  </category>
+
+  <draggableitem>
+    <item cat="one"><i>Crazy Ex-Girlfriend</i> is about a young lawyer named Rebecca Bunch who follows a crush to California.</item>
+    <item cat="one">Similar to Jason's machete or Freddy Krueger's claws, Leatherface wields a chainsaw to attack his victims.</item>
+    <item cat="one">Romantic comedies used to be a common option at movie theaters, but recently Netflix has taken over the genre.</item>
+    <item cat="one"><i>Crazy Ex-Girlfriend's</i> humor derives from the use of original songs to explain Rebecca's feelings.</item>
+    <item cat="one"><i>The Texas Chainsaw Massacre</i> was first released in 1974 and has seen seven sequels and remakes since.</item>
+    <item cat="two">Rebecca Bunch is relatable because the audience gets to relive the experience of unrequited love.</item>
+    <item cat="two">Leatherface's chainsaw is effective at terrorizing because its size and shape make it an intimidating tool.</item>
+    <item cat="two">Romantic comedies are well suited to solitary viewing, making Netflix the perfect distribution medium.</item>
+    <item cat="two">Some of <i>Crazy Ex-Girlfriend's</i> best punch lines are delivered through music, which helps them land better.</item>
+    <item cat="two">Like previous versions, <i>The Texas Chainsaw Massacre</i> (2003) serves as a time capsule for the early 2000s.</item>
+    
+
+        
+  </draggableitem>
+  <feedback>
+    <rightans>Correct! You've matched each review excerpt to its category. You understand that summaries/observations are objective statements, while evaluations/analyses are subjective statements about the subject of the review.</rightans>
+    <wrongans>Incorrect. Try again. Refer to the beginning of the chapter of your textbook to review the different types of responses in a review.</wrongans>
+  </feedback>
+ 
+</dataset>

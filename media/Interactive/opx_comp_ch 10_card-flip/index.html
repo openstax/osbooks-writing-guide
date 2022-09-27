@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <title>Card Flip-Flash Cards</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/settings.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="lib/jquery/jquery-3.1.1.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/bootstrap/js/popper.min.js"></script>
+   
+    <script src="js/util.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+      function cardRotate(e){
+        var flipper = $(e).find('.flip-card-inner');
+         $(flipper).toggleClass('flipped');
+         
+            if($(flipper).hasClass("flipped")){
+                console.log("BACK: ", $(e).attr("data-back"));
+               $(e).attr("aria-label", $(e).attr("data-back"));
+            }else{
+                console.log("FRONT: ", $(e).attr("data-front"));
+                $(e).attr("aria-label", $(e).attr("data-front"));
+            }
+            console.log($(e).attr("aria-label"));
+        }
+    </script>
+</head>
+
+<body>
+    <div id="matching_template" class="matching_template activity-container">
+        <header class="activity-header clearfix">                  
+            <div class="top-description">
+              <div class="head-btn-wrap">
+                <div class="head-btn">
+                    <button  aria-label="Help" type="button" class="note"  title='Instruction Text' ><img height="16" width="16" src="images/circle-question-regular.svg" alt="Help" /></button>
+                    <button  aria-label="Color Contrast Settings" type="button" class="cog setting-button"  title='Color Contrast Settings' ><img height="16" width="16" src="images/gear-solid.svg" alt="Color Scheme Settings" /></button>                        
+                    <div class="notice-card">
+                        <button aria-label="Help instruction Close" type="button"  class="close-bt" title='Close' >&#x2715;</button>
+                        <p>To complete the activity, select each definition and then click the term that it belongs to. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</p>
+                    </div>
+                    <div class="settings-container">
+                        <div class="settings-container-themes">
+                            <button aria-label="Color Scheme Settings Close" class="close-btn" title='Close'>&#x2715;</button>
+                            <div class="toolCnt">
+                                <div class="toolContainer_0">
+                                    <p lang="en" class="toolTxt toolTxt_0">Color Scheme</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+              </div>
+                <h1 class="activity-title">Target Audiences and Messaging in Healthcare<br></h1>
+            </div>
+        </header>
+        <section>
+            <div class="a-container">
+                <div class="cards-container">
+                    
+                </div>
+            </div>
+        </section>
+    </div>
+    <div id="tempDiv" style="display:none"></div>
+    <div id="tempSetting" style="display:none"></div>
+    <div id="cloneItem_d" class="card-wrap">
+        <button class="card flip-card" onclick="cardRotate(this);">
+            <span class="flip-card-inner">
+                <span class="flip-card-front">
+                    <p></p>
+                </span>
+                <span class="flip-card-back">
+                    <p></p>
+                </span>
+            </span>
+        </button>
+    </div>
+</body>
+</html>

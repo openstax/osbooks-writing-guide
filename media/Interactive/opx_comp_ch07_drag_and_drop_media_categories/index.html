@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Composition Category Interactive</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/accessibilityJs.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="settingContainer">
+
+                <button aria-label="Help" type="button" class="showText"  title='Instruction Text' ><img height="16" width="16" src="images/circle-question-regular.svg" alt="Help"></button>
+                <button aria-label="Color Contrast Settings" type="button" class="cog setting"  title='Color Scheme Settings' ><img aria-hidden="true" height="16" width="16" src="images/gear-solid.svg" alt="Color Scheme Settings"></button>
+
+                <div class="help-popup">
+                    <button tabindex="2" aria-label="Help instruction Close" class="popup-close" title='Close'>&#x2715;</button>
+                    <p id="instructionnorm"></p>
+                </div>
+                <div class="settinToolsContainer">
+                    <div class="toolsCnt"></div>
+                    <button aria-label="Color Scheme Settings Close" class="close" title='Close'>&#x2715;</button>
+                </div>
+            </div>
+            <h1 id="title"></h1>
+            <p id="instructionbold"></p>
+
+        </div>
+        <div class="fd-border">
+            <div class="container">
+                <div class="row dragableItemContainer">
+                    <div class="card-wrap">
+
+                    </div>
+                    <div class="feedback">
+                        <p>Correct! You’ve matched each review excerpt to its category. You understand that
+                            summaries/observations are objective statements, while evaluations/analyses are subjective
+                            statements about the subject of the review. Correct! You’ve matched each review excerpt to
+                            its category. You understand that summaries/observations are objective statements, while
+                            evaluations analyses are subjective statements ab</p>
+                    </div>
+                    <div class="nav-container mob-hid">
+                        <button aria-label="submit" class="submit_btn submit-hide" disabled>Submit</button>
+                        <button aria-label="try again" class="tryagain_btn invisible" disabled>Try Again</button>
+                        <button aria-label="reset" class="reset_btn invisible" disabled>Reset</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section class="main-sec">
+        <div class="container">
+            <div class="content custom-Scroll">
+                <div id="tempDiv" style="display:none"></div>
+                <div id="tempSetting" style="display:none"></div>
+                <div class="row categoryContainer">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <button aria-label="collapse/expand categories" class="bottom-btn">COLLAPSE CATEGORIES &#62;</button>
+    </section>
+
+</body>
+</html>

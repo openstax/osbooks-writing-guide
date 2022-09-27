@@ -1,0 +1,107 @@
+﻿<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <title>Parallelism, Repetition, and Signpost Language</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/settings.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="lib/jquery/jquery-3.1.1.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/bootstrap/js/popper.min.js"></script>
+    <script src="js/util.js"></script>
+    <script src="js/main.js"></script>
+</head>
+
+<body>
+    <div id="matching_template" class="matching_template activity-container">
+
+        <header class="activity-header clearfix">
+            <div class="container-fluid">
+
+                <div class="col-lg-12">
+                    <div class="top-description">
+                        <div class="head-btn-wrap">
+                            <div class="head-btn">
+                                <button role="button" aria-label="Help" type="button" class="note"
+                                    title='Instruction Text'><img height="16" width="16"
+                                        src="images/circle-question-regular.svg" alt="Help" /></button>
+                                <button role="button" aria-label="Color Contrast Settings" type="button"
+                                    class="cog setting-button" title='Color Contrast Settings'><img height="16"
+                                        width="16" src="images/gear-solid.svg" alt="Color Scheme Settings" /></button>
+                                <div class="notice-card">
+                                    <button aria-label="Help instruction Close" type="button" class="close-bt"
+                                        title='Close'>&#x2715;</button>
+                                    <p>To complete the activity, select each definition and then click the term that it
+                                        belongs to. Replay this interaction as many times as you need. There is no time
+                                        limit. Your responses will not be graded.</p>
+                                </div>
+
+                                <div class="settings-container">
+
+                                    <div class="settings-container-themes">
+                                        <button aria-label="Color Scheme Settings Close" class="close-btn"
+                                            title='Close'>&#x2715;</button>
+                                        <div class="toolCnt">
+                                            <div class="toolContainer_0">
+                                                <p lang="en" class="toolTxt toolTxt_0">Color Scheme</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <h1 class="activity-title">Target Audiences and Messaging in Healthcare<br></h1>
+                    </div>
+                </div>
+
+                <div class="clickable-items">
+                    <div class="row clickableBlock shuffle">
+                        <div class="col-12 col-sm-6 col-md-3" id="cloneItem_d">
+                            <button aria-label="" class="clickable-item">
+                                <p style="pointer-events: none;"></p>
+                            </button>
+                        </div>
+                    </div>
+                    <div id="r-feedback" class="feedback">
+                        <p></p>
+                    </div>
+                    <div id="w-feedback" class="feedback">
+                        <p></p>
+                    </div>
+                    <div class="text-end footer">
+                        <button aria-label="Reset" type="button"
+                            class="reset_btn btn-submit btn float-lg-end">Reset</button>
+                        <button aria-label="Tryagain" type="button" class="tryagain_btn btn-submit btn float-lg-end">Try
+                            Again</button>
+                        <button disabled="true" aria-label="Submit" type="button"
+                            class="submit_btn btn-submit btn float-lg-end disabled mobile-submit">Submit</button>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+        <section class="activity-content">
+            <div class="container-fluid">
+                <div class="matching-items">
+                    <div class="row matchingBlock shuffle">
+                        <div class="col-sm-4 col-lg-3 col-xl-2 col-6" id="matchBox_d">
+                            <div class="matching-element">
+                                <button aria-label="" class="matching-item">
+                                    <p style="pointer-events: none;"></p>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div id="tempDiv" style="display:none"></div>
+    <div id="tempSetting" style="display:none"></div>
+</body>
+
+</html>

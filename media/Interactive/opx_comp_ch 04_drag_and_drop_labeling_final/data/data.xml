@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Plot Diagram</title>
+  <instruction>To complete the activity, review the image prompt, and then match each response to its type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct: Congratulations! Your understanding of plot structure is evident.</rightfeedback>
+  <wrongfeedback>Incorrect: Review the explanations of each type of plot element in chapter and try again.</wrongfeedback>
+  <reviewimage>assets/images/Chapter-04_Art_01.svg</reviewimage>
+
+  <!-- <items>
+    <item>    
+      <clickable>
+        <text>Paraphrase</text>
+      </clickable>
+      <matching>
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Summary</text>
+      </clickable>
+      <matching>
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Evaluation</text>
+      </clickable>
+      <matching>
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Analysis</text>
+      </clickable>
+      <matching>      
+        <text>Congratulations! Your critical reading skills are evident123.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Evidence</text>
+      </clickable>
+      <matching>      
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+  </items> -->
+  <items>
+    <item>    
+      <clickable>
+        <text>Bixby puts trainee at helm</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-04_Card_01.svg</text>
+        <alt>Exposition</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Crew queries the narrator</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-04_Card_02.svg</text>
+        <alt>Rising Action</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Narrator calls for help</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-04_Card_03.svg</text>
+        <alt>Climax</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Bixby teases the narrator</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-04_Card_04.svg</text>
+        <alt>Falling Action</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Narrator feels confident</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-04_Card_05.svg</text>
+        <alt>Resolution</alt>
+      </matching>
+    </item>
+  </items>
+</dataset>
