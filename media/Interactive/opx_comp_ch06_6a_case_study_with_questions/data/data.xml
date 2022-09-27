@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<templatetitle><span> Peer Review: Conferencing in Writing Groups</span></templatetitle>
+<instruction>
+    <!-- <instructionbold>To Complete the activity: </instructionbold> -->
+    <instructionnorm>To complete the activity, read the sample proposal and apply what you have learned in this chapter to respond to the questions. You will receive feedback, but this activity will not be graded. Replay this interaction as many times as you need. There is no time limit.</instructionnorm>
+</instruction>
+  
+
+<content>
+    <leftcontent> 
+      <contenttitle>Peer Review: Conferencing in Writing Groups</contenttitle>
+      <contentdata type="introduction">
+      <para>A writing conference is an opportunity for focused, constructive conversation between readers and writers. During this time, peer readers can ask for clarity and provide immediate feedback. The experience allows you to expand or deepen your understanding of the writing process and think about the overall effectiveness of your proposal. After the conference, you’ll have a chance to revise your writing.</para> 
+      <para>With a small group, read the following portion of a sample proposal to participate in a mock group writing conference.</para> 
+      
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture  alt="A small group of college students gathered around a table with laptops and notebooks open as several students look at a display on a large monitor." picname='8596537508.jpg'></picture>
+        <picturedescription>Greg Anderson Photography, <a target="_blank" href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> <a target="_blank" href="https://creativecommons.org/licenses/by/2.0/deed.en">Attribution 2.0 Generic</a> license.</picturedescription>
+    </rightcontent>
+  </content>
+
+  <!-- <content>
+    <leftcontent> 
+      <contenttitle>Factors Contributing to Health Disparities</contenttitle>
+      <contentdata type="continued">
+      <para>In 2014, the city of Flint, Michigan, started to receive national attention after it was determined their drinking water was contaminated with lead. Lead contamination in drinking water due to rusty and decayed piping is a serious environmental concern. Since low-income communities with predominantly Black and Hispanic residents living in inadequate housing were disproportionately affected, the crisis was labeled a form of environmental racism.</para> 
+      <para>Stephanie, a single mother in Flint, Michigan, made multiple visits to the doctor’s office because her 8-year-old son, John, became ill following consumption of the city’s drinking water. </para>
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture alt="In 2014" picname='Image1.jpg'></picture>
+        <picturedescription>Photo citations Photo citationsPhoto citationsPhoto citationsPhoto citationsPhoto citationsPhoto citationsPhoto citationsPhoto citationsPhoto citationsPhoto citationsPhoto citationsPhoto citations</picturedescription>
+    </rightcontent>
+  </content> -->
+
+  
+  <content>
+    <leftcontent> 
+      <contenttitle>Peer Review: Conferencing in Writing Groupss</contenttitle>
+      <contentdata type="testyourskills">
+     <para>The Great Pacific Garbage Patch is located between Hawaii and California. As the name implies, this stretch of ocean highlights the urgent threat that plastic poses to our environment. In this 1.6 million square kilometer area lives over 1.8 trillion pieces of plastic, weighing in at 80,000 metric tons. Unfortunately, the patch is growing. Plastic bags have created an environmental emergency, threatening ocean biodiversity.</para>
+
+     <para>“In one just one year, about 660 billion pounds of plastic are produced worldwide. About 40% of that is single-use plastic, such as plastic bags and packaging. While many countries have banned or restricted single-use plastic, the United States has been slow to regulate its use. To protect the environment, plastic bags should be banned and replaced with reusable shopping bags. While critics argue that reusable bags are not the solution, research shows that reusable bags can immediately reduce plastic waste on a large scale.</para>
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture alt="A small group of college students gathered around a table with laptops and notebooks open as several students look at a display on a large monitor." picname='8596537508.jpg'></picture>
+        <picturedescription>Greg Anderson Photography, <a target="_blank" href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> <a target="_blank" href="https://creativecommons.org/licenses/by/2.0/deed.en">Attribution 2.0 Generic</a> license.</picturedescription>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+    <contentdata type="textentry">
+      <textariatitle><p><span class="shortanswer">Short Answer -</span>textariatitle <span class="shortanswer1">After reading the sample, work together develop a thoughtful initial response to the author’s work. This statement should be reflective, not directive. Use this sentence frame:</span></p>
+
+      
+      <p class="space"><span class="shortanswer1">Our reaction after reading the proposal is _____ because _____.</span></p>
+ 
+
+ 
+
+
+</span></textariatitle>
+        <feedback>
+          <feedbacktitle>Feedback:</feedbacktitle>
+          <feedbackcontent>
+            <para>Your initial peer review statement should respond to something in the author’s draft that is related to topic, purpose, genre, culture, or audience. As peer reviewers, you act as a mirror, helping the author understand whether or not they have achieved their goals. You provide opportunities for the author to understand where and how the perceptions or expectations of readers affect their messaging. </para>
+          </feedbackcontent>
+      </feedback>
+      </contentdata>
+      </leftcontent>
+  </content>
+
+  
+
+  <content>
+    <leftcontent> 
+     <contentdata type="mcq">
+      <question><span class="mcqMultipleChoice">Multiple Choice -</span> Peer reviewers ask questions that fuel thinking. Which question would most help the author revise? Discuss the reasoning behind your choice.</question>
+      <questionoption>
+        <option ans='correct'>How can you better support the claim about reusable bags?</option>
+        <option ans='incorrect'>Why are plastic bags a problem?</option>
+        <option ans='incorrect'>What should be done about plastic that is used in hospitals?</option>
+        <option ans='incorrect'>How can you better explain how plastic is made?</option>
+      </questionoption>
+      <wrongfeedback>
+        <icon picname="wrong.svg"></icon>
+        <icontext><span style="color:red;">Incorrect Answer</span></icontext>
+        <wrongfeebackcontent>Incorrect. Try again. Review Chapter 6 to understand the key elements of a proposal. These key elements should be the focus of your feedback.</wrongfeebackcontent> 
+      </wrongfeedback>
+      <rightfeedback>
+        <icon picname="right.svg"></icon>
+        <icontext><span style="color:green;">Correct Answer</span></icontext>
+        <rightfeebackcontent>Correct! Compose questions that help the author revise based on supplying reasoning and evidence for every claim.</rightfeebackcontent> 
+      </rightfeedback>
+      </contentdata>
+    </leftcontent>
+      <rightcontent>
+        <picture alt="Text document with two red question marks." picname='question_marks.svg'>
+          <position>leftside</position>
+        </picture>
+        <picturedescription>Benjamin D. Esham, <a target="_blank" href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> <a target="_blank" href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0 1.0 Universal Public Domain Dedication</a>.</picturedescription>
+    </rightcontent> 
+  </content>
+
+<content>
+    <leftcontent> 
+    <contentdata type="textentry">
+      <textariatitle><p><span class="shortanswer">Short Answer -</span> <span class="shortanswer1">Next, offer a constructive suggestion to the author. Focus on big-picture ideas, but be specific. Use this sentence frame: </span></p>
+
+      
+      <p class="space"><span class="shortanswer1">I think you could use stronger reasoning (supporting evidence) when you discuss &lt;WOL&gt; such as &lt;WOL&gt; because &lt;WOL&gt;.</span></p>
+ 
+
+ 
+
+
+</span></textariatitle>
+        <feedback>
+          <feedbacktitle>Feedback:</feedbacktitle>
+          <feedbackcontent>
+            <para>Constructive feedback should help the author think about how they can clarify, improve, or otherwise strengthen an element of their writing. You should focus on ideas, reasoning, evidence, and transitions, not grammar or spelling. Be sure to use phrasing that offers suggestions rather than commands.</para>
+          </feedbackcontent>
+      </feedback>
+      </contentdata>
+      </leftcontent>
+  </content>
+
+ <content>
+    <leftcontent> 
+     <contentdata type="mcq">
+      <question><span class="mcqMultipleChoice">Multiple Choice -</span> Peer reviewers should focus on feedback that affects understanding. Which example offers this feedback? Discuss the reasoning behind your choice.</question>
+      <questionoption>
+        <option ans='correct'>Suggesting a stronger thesis</option>
+        <option ans='incorrect'>Rewording a specific sentence</option>
+        <option ans='incorrect'>Pointing out typos or misspelling</option>
+        <option ans='incorrect'>Correcting the format of a reference  </option>
+      </questionoption>
+      <wrongfeedback>
+        <icon picname="wrong.svg"></icon>
+        <icontext><span style="color:red;">Incorrect Answer</span></icontext>
+        <wrongfeebackcontent>Incorrect. Try again. Review Chapter 6 to understand the most important <em>overall</em> parts of a proposal. Remember that revision focuses on the big picture.</wrongfeebackcontent> 
+      </wrongfeedback>
+      <rightfeedback>
+        <icon picname="right.svg"></icon>
+        <icontext><span style="color:green;">Correct Answer</span></icontext>
+        <rightfeebackcontent>Correct! A clear thesis is an important part of a proposal. You understand that this is a major issue to be addressed as part of peer feedback.</rightfeebackcontent> 
+      </rightfeedback>
+      </contentdata>
+    </leftcontent>
+      <rightcontent>
+        <picture alt="A paper document about health insurance with handwritten revisions in black ink." picname='paper_document.jpg'>
+          <position>leftside</position>
+        </picture>
+        <picturedescription>Nicolas Bouliane, <a target="_blank" href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> <a target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Attribution-Share Alike 4.0 International</a> license.</picturedescription>
+    </rightcontent> 
+  </content>
+
+
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Summary</contenttitle>
+      <contentdata type="summary">
+        <para><p>Peer review should:</p>
+        <ul class="ul-summary">
+<li>provide feedback about what is effective for the audience and purpose.</li>
+<li>provide constructive suggestions to improve elements related to topic, genre, and culture.</li>
+<li>ask questions for clarification.</li>
+<li>provide specific examples of improvements.</li>
+</ul>
+<p>After providing specific feedback, as you’ve done here, end with a general discussion. Discuss issues where you struggled to find consensus as a group or provide additional actionable suggestions. Remember to frame your discussion in terms of the reader’s understanding and reaction based on the defined rhetorical situation.<p>
+
+<h3>References/Content Citations and Attributions (Optional)</h3>
+<p>Doucette, Theodore. "Replacement of Plastic Bags with Reusable Hemp Bags." <em>Debating Science,</em> 23 Apr. 2019, <a target="_blank" href="https://blogs.umass.edu/natsci397a-eross/replacement-of-plastic-bags-with-reusable-hemp-bags/">https://blogs.umass.edu/natsci397a-eross/replacement-of-plastic-bags-with-reusable-hemp-bags/.</a></p>
+
+  </para>
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="Three students sitting around a table and talking with open laptop computers and paper printouts in front of them." picname='8400.jpg'></picture>
+        <picturedescription>Biswarup Ganguly</picturedescription>
+    </rightcontent>
+  </content>
+  
+ 
+</dataset>

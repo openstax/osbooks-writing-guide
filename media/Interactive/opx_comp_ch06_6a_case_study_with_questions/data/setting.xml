@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+    <focuscolor color="#000000,#000000,#000000,#000000"></focuscolor>
+    <titlestyle fontfamily="Montserrat-Bold" color="#001a36"></titlestyle>
+    <instructionnorm fontfamily="Montserrat-Regular" color="#001936"></instructionnorm>
+    <contenttitle fontfamily="Montserrat-Bold" color="#4a4545"></contenttitle>
+    <contentdata fontfamily="Montserrat-Regular" color="#4a4545"></contentdata>
+    <picturedescription fontfamily="Montserrat-Regular" color="#4a4545"></picturedescription>
+    <textareashortans fontfamily="Montserrat-ExtraLightItalic" color="#4A4A4A"></textareashortans>
+    <textareashortanscontent fontfamily="Montserrat-Regular" color="#4A4A4A"></textareashortanscontent>
+    <textareashortanstext fontfamily="Montserrat-Regular" color="#4A4A4A"></textareashortanstext>
+    <textareafeedback fontfamily="Montserrat-Bold" color="#4A4A4A"></textareafeedback>
+    <textareafeedbacktext fontfamily="Montserrat-Regular" color="#4A4A4A"></textareafeedbacktext>
+    <mcqmultiplechoice fontfamily="Montserrat-ExtraLightItalic" color="#4A4A4A"></mcqmultiplechoice>
+    <mcqquestiontext fontfamily="Montserrat-Regular" color="#4A4A4A"></mcqquestiontext>
+    <mcqoptiontext fontfamily="Montserrat-Light" color="#4A4A4A"></mcqoptiontext>
+    <mcqfeedbackwrong fontfamily="HelveticaNeue Bold" color="#CD5849"></mcqfeedbackwrong>
+    <mcqfeedbackright fontfamily="HelveticaNeue Bold" color="#007961"></mcqfeedbackright>
+    <mcqfeedbacktext fontfamily="Montserrat-Regular" color="#4A4A4A"></mcqfeedbacktext>
+ <setting>
+        <styleitem txt="Color Scheme" fontfamily="Montserrat-Bold" color="#001936"></styleitem>
+        <styleitem colors="#001a36,#4a4545,#C7EBF2" txt="Default" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='default.svg'></styleitem>
+        <styleitem colors="#001783,#4a4545,#6C9BFF" txt="Scheme 1" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='red-green.svg'></styleitem>
+        <styleitem colors="#001C5D,#4a4545,#7FA8FC" txt="Scheme 2" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='blue-yellow.svg'></styleitem>
+        <styleitem colors="#43596F,#4a4545,#79E6FF" txt="Scheme 3" fontfamily="Montserrat-Regular" tooltextcolor="#001936" picname='highcontrast.svg'></styleitem>
+    </setting>  
+</dataset>

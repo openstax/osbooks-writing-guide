@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<templatetitle>Argumentative Research: Enhancing the Art of Rhetoric</span></templatetitle>
+<instruction>
+    <!-- <instructionbold>To Complete the activity: </instructionbold> -->
+    <instructionnorm>To complete the activity, read the case study and apply what you have learned in this module to answer the case study questions. You will receive feedback, but this activity will not be graded. Replay this interaction as many times as you need. There is no time limit.</instructionnorm>
+</instruction>
+  
+
+<content>
+    <leftcontent> 
+      <contenttitle>Argumentative Research: Enhancing the Art of Rhetoric</contenttitle>
+      <contentdata type="introduction">
+      <para>As part of the process of developing an argumentative research paper, revising often involves reimagining, rewording, and reordering your work to better match your intention to your execution. Because writing is a recursive, rather than static, process, you must continually return to the page to make improvements, focusing on your defined rhetorical situation—audience, stance, purpose, context, and culture. Read the following sample student paragraph from an argumentative essay, and then answer revision questions about it on the following screens.</para> 
+     
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture  alt="A smartphone with a blue to yellow gradient background that shows blue triangle-shaped mountains in the foreground and clouds above." picname='image1.jpg'></picture>
+	<picturedescription><a target="_blank" href="https://www.flickr.com/people/91265124@N03">Răzvan Băltărețu</a>, This file is licensed under the <a target="_blank" href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> <a target="_blank" href="https://creativecommons.org/licenses/by-sa/2.0/deed.en">Attribution-Share Alike 2.0 Generic</a> license.</picturedescription>
+
+    </rightcontent>
+  </content>
+
+  
+<content>
+    <leftcontent> 
+      <contenttitle>Argumentative Research: Enhancing the Art of Rhetoric</contenttitle>
+      <contentdata type="testyourskills">
+     
+      <para>Smartphones are part of everyday life. More and more people carry them, and they are a part of everyday life for most. Currently, there is a major debate concerning the use of smartphones. Many believe they are detrimental to society. Some would argue that smartphones are harmless. After examining both sides, it is evident that smartphones are bad for society.</para> 
+      
+      </contentdata>
+    </leftcontent>
+    <rightcontent>
+        <picture  alt="A smartphone with a blue to yellow gradient background that shows blue triangle-shaped mountains in the foreground and clouds above." picname='image1.jpg'></picture>
+	<picturedescription><a target="_blank" href="https://www.flickr.com/people/91265124@N03">Răzvan Băltărețu</a>, This file is licensed under the <a target="_blank" href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> <a target="_blank" href="https://creativecommons.org/licenses/by-sa/2.0/deed.en">Attribution-Share Alike 2.0 Generic</a> license.</picturedescription>
+    </rightcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+     <contentdata type="mcq">
+      <question>Which of the following sentences would improve the paragraph by creating an effective opening strategy, or hook?</question>
+      <questionoption>
+        <option ans='incorrect'>Smartphones are one example of advanced technology.</option>
+        <option ans='incorrect'>Why would you give a teen a smartphone?</option>
+        <option ans='correct'>Most users spend 171 minutes per day on their smartphones.</option>
+        <option ans='incorrect'>Smartphones work using radio technology.</option>
+      </questionoption>
+      <wrongfeedback>
+        <icon picname="wrong.svg"></icon>
+        <icontext><span style="color:red;">Incorrect Answer</span></icontext>
+        <wrongfeebackcontent>Try again. Review Chapter 12 to understand how to create an effective opening strategy, or hook.</wrongfeebackcontent> 
+      </wrongfeedback>
+      <rightfeedback>
+        <icon picname="right.svg"></icon>
+        <icontext><span style="color:green;">Correct Answer</span></icontext>
+        <rightfeebackcontent>A hook for an argumentative essay should grab readers’ attention and encourage further reading. Many hooks contain statistics, anecdotes, questions, or statements.</rightfeebackcontent> 
+      </rightfeedback>
+      </contentdata>
+    </leftcontent>
+      <rightcontent>
+        <picture alt="A woman holding a smartphone, taking a photo of a cherry blossom tree, while a single hand next to her holds a traditional flip phone, taking a similar picture." picname='image2.jpg'>
+          <position>leftside</position>
+        </picture>
+        <picturedescription>Takashi Hososhima, This file is licensed under the <a target="_blank" href="https://en.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> <a target="_blank" href="https://creativecommons.org/licenses/by-sa/2.0/deed.en">Attribution-Share Alike 2.0 Generic</a> license.</picturedescription>
+    </rightcontent> 
+  </content>
+
+<content>
+    <leftcontent> 
+    <contentdata type="textentry">
+      <textariatitle>
+      <p><span class="shortanswer">Short Answer -</span> <span class="shortanswer1">Effective introductory paragraphs provide background information. Read the first three sentences of the student sample. How might you revise them to better connect background information to the thesis? Explain your thinking.</span></p>
+      
+ </textariatitle>
+        <feedback>
+          <feedbacktitle>Feedback:</feedbacktitle>
+          <feedbackcontent>
+            <para>The student sample establishes that there is a current debate about smartphones but mentions “part of everyday life” twice. I might consider rewording the first and second sentences to better introduce the idea that the debate concerns the safety and impact of smartphones on society. In addition, I could add the hook from the previous question. A possible revision might look like this:</para>
+            <para>“Most users spend 171 minutes per day on their smartphones. With more and more people using smartphones as part of their everyday lives, there is renewed debate over their safety and impact on society.”</para>
+          </feedbackcontent>
+      </feedback>
+      </contentdata>
+      </leftcontent>
+  </content>
+
+ <content>
+    <leftcontent> 
+     <contentdata type="mcq">
+      <question><p>The author acknowledges a counterclaim in this paragraph. Which revision would best preview the author’s coming response to the counterclaim? Choose the best revision.</p>
+      <p>"Some would argue that smartphones <span style="white-space: nowrap;">are harmless . . ."</span></p></question>
+      <questionoption>
+        <option ans='incorrect'>, but they are wrong.</option>
+        <option ans='incorrect'>; however, others view the issue differently.</option>
+        <option ans='incorrect'>, but smartphones add entertainment and excitement to life.</option>
+        <option ans='correct'>, though evidence proves they can negatively impact health.</option>
+      </questionoption>
+      <wrongfeedback>
+        <icon picname="wrong.svg"></icon>
+        <icontext><span style="color:red;">Incorrect Answer</span></icontext>
+        <wrongfeebackcontent>Try again. Review Chapter 12 to understand how to refute a counterclaim. </wrongfeebackcontent> 
+      </wrongfeedback>
+      <rightfeedback>
+        <icon picname="right.svg"></icon>
+        <icontext><span style="color:green;">Correct Answer</span></icontext>
+        <rightfeebackcontent>This revision offers a refutation that is based on evidence.</rightfeebackcontent> 
+      </rightfeedback>
+      </contentdata>
+    </leftcontent>
+      <rightcontent>
+        <picture alt="Two men and a woman waiting next to the tracks at a railway station, all looking down at smartphones in their hands." picname='image3.jpg'>
+          <position>leftside</position>
+        </picture>
+        <picturedescription>Rawpixel.com, This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication</picturedescription>
+    </rightcontent> 
+  </content>
+
+
+<content>
+    <leftcontent> 
+    <contentdata type="textentry">
+      <textariatitle>
+      <p><span class="shortanswer">Short Answer -</span> <span class="shortanswer1">How might you revise the thesis in the sample to make it stronger? Consider using the following sentence frame. Explain your thinking.</span></p>
+       <p class="space"><span class="shortanswer1">After examining both sides, it is evident that _____ because _____, _____, and _____.</span></p>
+      
+
+ </textariatitle>
+        <feedback>
+          <feedbacktitle>Feedback:</feedbacktitle>
+          <feedbackcontent>
+            <para>The thesis statement should reveal the position or stance and offer reasoning for taking that stance. The thesis in the student sample offers a stance, but no supporting reasoning. A possible revision based on cause-and-effect reasoning might look like this:</para>
+            <para>"After examining both sides, it is evident that smartphones harm society because they are dangerous to human health, they detach people from real life, and many people have become addicted to them."</para>
+          </feedbackcontent>
+      </feedback>
+      </contentdata>
+      </leftcontent>
+  </content>
+
+  <content>
+    <leftcontent> 
+      <contenttitle>Summary</contenttitle>
+      <contentdata type="summary">
+        <para>
+<p>Revising your writing offers you an opportunity to improve your communication with your audience and better argue your position. In this student sample, the revision process strengthened the opening, reworded and expanded background information, provided a rebuttal to the counterclaim, and provided reasoning for the thesis. The revised student sample might read:</p>
+<p>
+Most users spend 171 minutes per day on their smartphones. With more and more people using smartphones as part of their everyday lives, there is renewed debate over their safety and impact on society. Many agree they are detrimental to society. Others argue that smartphones are harmless, though evidence proves they can negatively impact health. After examining both sides, it is evident that smartphones harm society because they are dangerous to human health, they detach people from real life, and many people have become addicted to them.</p>
+
+<!-- <h3>Enter references, citations, and attributions here (if applicable).</h3> -->
+<!-- <p>Doucette, Theodore. "Replacement of Plastic Bags with Reusable Hemp Bags." <em>Debating Science,</em> 23 Apr. 2019, <a target="_blank" href="https://blogs.umass.edu/natsci397a-eross/replacement-of-plastic-bags-with-reusable-hemp-bags/">https://blogs.umass.edu/natsci397a-eross/replacement-of-plastic-bags-with-reusable-hemp-bags/.</a></p> -->
+
+  </para>
+      </contentdata>
+      </leftcontent>
+    <rightcontent>
+        <picture alt="Red circle with white circular arrows inside." picname='image4.svg'></picture>
+        
+        <picturedescription>Emoji One contributors, This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.</picturedescription>
+    </rightcontent>
+  </content>
+  
+ 
+</dataset>

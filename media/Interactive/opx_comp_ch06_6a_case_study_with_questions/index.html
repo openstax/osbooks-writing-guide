@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <title>Composition Chapter 06</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-3.6.0.min.js"></script>
+
+    <script src="js/main.js"></script>
+    <script src="js/accessibilityJs.js"></script>
+</head>
+
+<body>
+    <main>
+        
+
+        <div class="settingContainer">
+            <button class="setting" title='setting'>
+                
+                <svg xmlns="http://www.w3.org/2000/svg" width="58.102" height="58.102" viewBox="0 0 58.102 58.102">
+                    <g>
+                        <path fill="#e6faff" stroke="#051a34" stroke-width="2px"
+                            d="M69.337 39.228l-3.6-1.58a4.939 4.939 0 0 1-2.592-2.639 4.938 4.938 0 0 1 0-3.7l1.438-3.651a1.58 1.58 0 0 0-.174-2.031l-3.951-3.951a1.58 1.58 0 0 0-2.031-.174l-3.643 1.5a4.939 4.939 0 0 1-3.7 0 4.939 4.939 0 0 1-2.639-2.592l-1.58-3.6a1.58 1.58 0 0 0-1.58-1.312h-5.532a1.58 1.58 0 0 0-1.58 1.312l-1.58 3.6a4.939 4.939 0 0 1-6.321 2.623l-3.6-1.486a1.58 1.58 0 0 0-2.031.174l-3.951 3.951a1.58 1.58 0 0 0-.174 2.031l1.493 3.611a4.938 4.938 0 0 1 0 3.714 4.938 4.938 0 0 1-2.592 2.623l-3.6 1.58a1.58 1.58 0 0 0-1.312 1.58v5.531a1.58 1.58 0 0 0 1.312 1.58l3.6 1.58a4.939 4.939 0 0 1 2.592 2.639 4.938 4.938 0 0 1 0 3.7l-1.454 3.587a1.58 1.58 0 0 0 .174 2.031l3.951 3.951a1.58 1.58 0 0 0 2.031.174l3.611-1.493a4.939 4.939 0 0 1 3.7 0 4.938 4.938 0 0 1 2.639 2.592l1.58 3.6a1.58 1.58 0 0 0 1.58 1.312h5.531a1.58 1.58 0 0 0 1.58-1.312l1.58-3.6a4.939 4.939 0 0 1 2.647-2.6 4.938 4.938 0 0 1 3.69 0l3.651 1.442a1.58 1.58 0 0 0 2.031-.174l3.947-3.951a1.58 1.58 0 0 0 .174-2.031l-1.557-3.587a4.939 4.939 0 0 1 0-3.714 4.939 4.939 0 0 1 2.592-2.623l3.6-1.58a1.58 1.58 0 0 0 1.312-1.58v-5.532a1.58 1.58 0 0 0-1.262-1.525zm-26.786 17.6a13.283 13.283 0 1 1 13.282-13.277 13.283 13.283 0 0 1-13.282 13.282z"
+                            transform="translate(1 1) translate(-14.5 -15.5)" />
+                    </g>
+                </svg>
+            </button>
+        </div>
+        <div class="settinToolsContainer"></div>
+        <input type="button" value="template background" class="template" />
+        <div class="mainContainer">
+            <div class="popupLayer"></div>
+            <div class="popupTextAreaContainer">
+                <div class="popupTextAreaContent">
+                    <h2 class="textareaFeedbackTitle"> feedback textarea</h2><br>
+                    <div class="textareaFeedbackContect"></div>
+                    <button type="button" value="continue" class="continue_btn_textarea">Continue</button>
+
+                </div>
+            </div>
+
+            <div class="popupMCQContainer">
+                <div class="popupMCQContent">
+                    <div class="mcqFeedbackTitle">
+                        <div class="feedbackicon"><img class="icon" alt="feedback icon" src=''></div>
+                        <div class="feedbacktext">
+                            <div class="text"></div>
+                        </div>
+                    </div>
+                    <p class="mcqFeedbackContect">content MCQ</p>
+                    <!-- <input type="button" value="continue" class="continue_btn_mcq" /> -->
+                    <button class="continue_btn_mcq" title='continue'>Continue
+
+                    </button>
+
+
+                </div>
+            </div>
+
+
+            <div class="container">
+                <h1 id="title"></h1>
+                <!-- <p id="instructionbold"></p> -->
+                <p id="instructionnorm"></p>
+                <div class="content">
+                    <div id="tempDiv" style="display:none"></div>
+                    <div id="tempSetting" style="display:none"></div>
+
+                    <div id="resultDiv">
+                        <div class="rightContainer">
+                            <img alt="image description" class="pic" src="" />
+                            <div class="pic_desc"></div>
+                        </div>
+                        <div class="leftContainer"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="navSpace updateNavSpace"></div>
+
+
+
+            <img id="loadingImg" alt="loading" src="images/loading.gif" />
+
+            <div class="nav-container">
+                <button class="prev_btn" title='previous'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+                        <g>
+                            <g fill="#e6faff" stroke="#051a34" transform="rotate(180 38.5 38.5)">
+                                <circle cx="38.5" cy="38.5" r="38.5" stroke="none" />
+                                <circle cx="38.5" cy="38.5" r="38" fill="none" />
+                            </g>
+                            <g>
+                                <g>
+                                    <path fill="#051a34"
+                                        d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                                        transform="rotate(180 38.5 38.5) translate(27.906 13.826)" />
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+
+                </button>
+
+                <!-- <input type="button" value="test your skill" class="testyourskill_btn" /> -->
+                <button class="testyourskill_btn" title='test your skills'>TEST YOUR SKILLS<span
+                        class="arrow-right"></span></button>
+
+
+                <!-- <input type="button" value="submit" class="submit_btn_textarea" /> -->
+
+                <button class="submit_btn_textarea" title='submit'>Submit
+
+                </button>
+
+
+                <!-- <input type="button" value="submit" class="submit_btn_mcq" /> -->
+                <button class="submit_btn_mcq" title='submit'>Submit
+
+                </button>
+
+
+                <!-- <input type="button" value="next" class="next_btn" /> -->
+                <button class="next_btn" title='next'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+                        <g>
+                            <g fill="#e6faff" stroke="#051a34" transform="rotate(180 38.5 38.5)">
+                                <circle cx="38.5" cy="38.5" r="38.5" stroke="none" />
+                                <circle cx="38.5" cy="38.5" r="38" fill="none" />
+                            </g>
+                            <g>
+                                <g>
+                                    <path fill="#051a34"
+                                        d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                                        transform="rotate(180 38.5 38.5) translate(27.906 13.826)" />
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                </button>
+                <!-- <input type="button" value="restart" class="reset_btn" /> -->
+
+                <button role="restart button" class="reset_btn" title='restart'>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+                        <g>
+                            <g fill="#e6faff" stroke="#051a34" transform="rotate(180 38.5 38.5)">
+                                <circle cx="38.5" cy="38.5" r="38.5" stroke="none" />
+                                <circle cx="38.5" cy="38.5" r="38" fill="none" />
+                            </g>
+                            <g>
+                                <g>
+                                    <path fill="#001a36" stroke="#051a34"
+                                        d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                                        transform="rotate(180 38.5 38.5) translate(17.906 13.826)" />
+                                </g>
+                            </g>
+                            <g>
+                                <g>
+                                    <path fill="#051a34" stroke="#051a34"
+                                        d="M1.188 7.057a4.219 4.219 0 0 1 0-5.869 4.219 4.219 0 0 1 5.869 0l19.751 19.658a4.335 4.335 0 0 1 0 5.963L7.057 46.466a4.219 4.219 0 0 1-5.869 0 4.335 4.335 0 0 1 0-5.963l16.77-16.676-16.77-16.77z"
+                                        transform="rotate(180 38.5 38.5) translate(38.906 13.826)" />
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+                </button>
+
+            </div>
+
+
+
+
+        </div>
+
+
+    </main>
+
+</body>
+
+</html>
