@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<title>Evaluating</title>
+<instruction>
+    <instructionnorm>To complete the activity, select each statement at the top, then click its category below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instructionnorm>
+</instruction>
+  <category>
+      <categorytitle cat="one">Implement</categorytitle>
+      <categorytitle cat="two">Ignore</categorytitle>
+       <!-- <categorytitle cat="three">Rebecca Bunch is relatable because the Rebecca Bunch is relat</categorytitle>  -->
+  </category>
+
+  <draggableitem>
+    <item cat="one">I'm unsure of your major claim. You can clarify it with a more direct thesis.</item>
+    <item cat="one">You should address a counterclaim to strengthen your argument.</item>
+    <item cat="one">Use a transition phrase to connect the second and third paragraphs.</item>
+    <item cat="one">I'm unclear how this quotation supports your claim. Can you elaborate?</item>
+    <item cat="two">I don't really like your thesis. Can you change it?</item>
+    <item cat="two">Your summary contains a plot spoiler.</item>
+    <item cat="two">You should make this section more interesting.</item>
+    <item cat="two">I think you should use a different word here.</item>
+    
+    
+
+        
+  </draggableitem>
+  <feedback>
+    <rightans>Correct! You've matched each revision suggestion to the correct category. You understand that helpful feedback makes specific suggestions and asks questions that strengthen an essay's thesis and support for that thesis.</rightans>
+    <wrongans>Incorrect. Try again. Refer to the chapter to review how to evaluate and respond to feedback provided through peer review.</wrongans>
+  </feedback>
+ 
+</dataset>

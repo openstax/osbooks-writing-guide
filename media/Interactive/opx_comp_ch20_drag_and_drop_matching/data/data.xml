@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Using Pronouns</title>
+  <instruction>To complete the activity, select the pronoun at the top, then select the corresponding sentence below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! You’ve matched each pronoun to the correct sentence. You understand how to use different types of pronouns.</rightfeedback>
+  <wrongfeedback>Incorrect. Try again. Refer to Chapter 20 of your textbook, especially the section on common mix-ups, to review pronouns and their uses.</wrongfeedback>
+  <items>
+    <item>
+      <clickable>
+        <text>whom</text>
+      </clickable>
+      <matching>
+        <text>From _____ are we running?</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>who</text>
+      </clickable>
+      <matching>
+        <text>People _____ bake cookies are very nice.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>it’s</text>
+      </clickable>
+      <matching>
+        <text>Now _____ freezing outside!</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>its</text>
+      </clickable>
+      <matching>      
+        <text>The cat lost _____ tail in an accident.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>I</text>
+      </clickable>
+      <matching>      
+        <text>Adrien and _____ are on the chess team.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>me</text>
+      </clickable>
+      <matching>
+        <text>His sister invited Susana and _____ to a party.</text>
+      </matching>
+    </item>
+    
+
+    
+    
+    
+  </items>
+</dataset>

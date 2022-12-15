@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+<title>Qualitative vs. Quantitative Data</title>
+<instruction>
+    <instructionnorm>To complete the activity, select each statement at the top, then click its category below. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instructionnorm>
+</instruction>
+  <category>
+      <categorytitle cat="one">Quantitative Research Data</categorytitle>
+      <categorytitle cat="two">Qualitative Research Data</categorytitle>
+       <!-- <categorytitle cat="three">Rebecca Bunch is relatable because the Rebecca Bunch is relat</categorytitle>  -->
+  </category>
+
+  <draggableitem>
+    <item cat="one">Student used eight emojis during a five-minute text message conversation.</item>
+    <item cat="one">I counted four grammatical errors in student's email to the professor.</item>
+    <item cat="one">Analysis of student's tweets reveals 20% are about school, 50% about work, and 30% about friends.</item>
+    <item cat="one">Student's FaceTime calls averaged 15 minutes during the past week.</item>
+    <item cat="one">Student used three different greetings when answering the phone at work.</item>
+    <item cat="two">Student seemed more reserved when speaking with family than in other settings.</item>
+    <item cat="two">Student's use of profanity changed when they started losing the game.</item>
+    <item cat="two">Student's tone on the phone was friendlier early in the shift than it was later in the shift.</item>
+    <item cat="two">Student seems comfortable using scientific jargon.</item>
+    <item cat="two">Student often uses phone as a sign of disengagement.</item>
+    
+
+        
+  </draggableitem>
+    <feedback>
+    <rightans>Correct! You've matched each type of research data to its category. You understand that qualitative data includes subjective information based on observations and quantitative data can be replicated in a controlled environment.</rightans>
+    <wrongans>Incorrect. Try again. Refer to the chapter to review the differences between qualitative and quantitative research data.</wrongans>
+  </feedback>
+ 
+</dataset>

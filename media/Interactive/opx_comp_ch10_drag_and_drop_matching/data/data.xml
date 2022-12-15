@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Claims and Counterclaims</title>
+  <instruction>To complete the activity, select the claim at the top, then select the corresponding counterclaim below.  Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! You’ve matched each claim to its counterclaim. You understand this aspect of argument.</rightfeedback>
+  <wrongfeedback>Incorrect. Try again. Refer to Chapter 10 of your textbook to review counterclaims, their relation to claims, and their purpose in argument.</wrongfeedback>
+  <items>
+    <item>
+      <clickable>
+        <text>Vaccines against COVID-19 should be mandated.</text>
+      </clickable>
+      <matching>
+        <text>No one has the right to mandate what goes into an individual’s body.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Content on YouTube should be well regulated.</text>
+      </clickable>
+      <matching>
+        <text>The principle of freedom of speech means that regulations on social media platforms should not be tightened.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Parents should modify fetuses, if desired.</text>
+      </clickable>
+      <matching>
+        <text>An unborn child is exactly the way God intended the child to be.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>College athletes should not be paid.</text>
+      </clickable>
+      <matching>      
+        <text>Because athletes earn money for their schools, they should be paid for the work they do.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Minors should be allowed to buy birth control.</text>
+      </clickable>
+      <matching>      
+        <text>Those under 18 do not have the emotional or mental maturity to access prescription drugs for themselves.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>U.S. immigration laws should be changed.</text>
+      </clickable>
+      <matching>
+        <text>The existing laws that allow outsiders into the United States are adequate and ensure the safety of current citizens.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Public colleges should be free to attend.</text>
+      </clickable>
+      <matching>      
+        <text>Free public colleges would require operating costs to be borne by taxpayers who do not attend or have children in college.</text>
+      </matching>
+    </item>
+
+    
+    
+    
+  </items>
+</dataset>

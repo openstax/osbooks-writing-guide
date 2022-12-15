@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Matching Colors with<br>Culture and Symbolism</title>
+  <instruction>To complete the activity, review the image prompt, and then match each response to its type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct! To learn more about the traditional symbolic attributes of colors, review chapter in your textbook.</rightfeedback>
+  <wrongfeedback>Incorrect! To learn more about the traditional symbolic attributes of colors, review Chapter 17 in your textbook.</wrongfeedback>
+  <reviewimage>assets/images/Chapter-17_Art_01.svg </reviewimage>
+  <items>
+    <item>    
+      <clickable>
+        <text>Hope</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-17_Card_01.svg</text>
+        <alt>Yellow</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Beginnings</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-17_Card_02.svg</text>
+        <alt>Green</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Innocence or purity</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-17_Card_03.svg</text>
+         <alt>White</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Peacefulness</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-17_Card_04.svg</text>
+          <alt>blue</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Safety</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-17_Card_05.svg</text>
+         <alt>orange</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Danger or Death</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-17_Card_06.svg</text>
+           <alt>black</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Anger, war, passion</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-17_Card_07.svg</text>
+        <alt>red</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Royalty</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-17_Card_08.svg</text>
+         <alt>purple</alt>
+      </matching>
+    </item>
+    
+    
+    
+  </items>
+</dataset>

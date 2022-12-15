@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+  <title>Anatomy of the Heart</title>
+  <instruction>To complete the activity, review the image prompt, and then match each response to its type. Replay this interaction as many times as you need. There is no time limit. Your responses will not be graded.</instruction>
+  <rightfeedback>Correct: Congratulations! Your critical reading skills are evident.</rightfeedback>
+  <wrongfeedback>Incorrect: Review the explanations of each type of reading response in chapter and try again.</wrongfeedback>
+  <reviewimage>assets/images/Chapter-01_Art_01.svg</reviewimage>
+
+  <!-- <items>
+    <item>    
+      <clickable>
+        <text>Paraphrase</text>
+      </clickable>
+      <matching>
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Summary</text>
+      </clickable>
+      <matching>
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Evaluation</text>
+      </clickable>
+      <matching>
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Analysis</text>
+      </clickable>
+      <matching>      
+        <text>Congratulations! Your critical reading skills are evident123.</text>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Evidence</text>
+      </clickable>
+      <matching>      
+        <text>Congratulations! Your critical reading skills are evident.</text>
+      </matching>
+    </item>
+  </items> -->
+  <items>
+    <item>    
+      <clickable>
+        <text>Paraphrase</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-01_Card_01.svg</text>
+        <alt>To 15 friends, POTUS says do the crime, but don't do the time.</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Summary</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-01_Card_02.svg</text>
+        <alt>POTUS pardons 15 criminal allies, mocking the idea of law and order.</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Evaluation</text>
+      </clickable>
+      <matching>
+        <text>assets/images/Chapter-01_Card_03.svg</text>
+        <alt>SCOTUS was wrong when it said in 1925 POTUS "will not abuse" the power of pardon.</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Analysis</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-01_Card_04.svg</text>
+        <alt>Doesn't the power of pardon undermine the institutions POTUS is sworn to protect?</alt>
+      </matching>
+    </item>
+    <item>
+      <clickable>
+        <text>Evidence</text>
+      </clickable>
+      <matching>      
+        <text>assets/images/Chapter-01_Card_05.svg</text>
+        <alt>SCOTUS ruling in Ex parts gro0sman means POTUS can pardon friends and family members without concern the pardons will be overturned.</alt>
+      </matching>
+    </item>
+  </items>
+</dataset>
