@@ -1,4 +1,5 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:sys="http://cnx.rice.edu/system-info" xmlns="http://cnx.rice.edu/collxml">
+<?xml version="1.0"?>
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:sys="http://cnx.rice.edu/system-info" xmlns="http://cnx.rice.edu/collxml" authors="Michelle Bachelor Robinson ,Maria Jerskey ,featuring Toby Fulwiler">
   <col:metadata>
     <md:uuid>ee7ce46b-0972-4b2c-bc6e-8998c785cd57</md:uuid>
     <md:title>Writing Guide with Handbook</md:title>
