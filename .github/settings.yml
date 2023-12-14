@@ -9,11 +9,7 @@ repository:
   has_downloads: false
 
   allow_auto_merge: true
-  delete_branch_on_merge: true
-  
-collaborators:
-  - username: srm-openstax
-    permission: push
+  delete_branch_on_merge: true  
 
 teams:
   - name: ce-admins
