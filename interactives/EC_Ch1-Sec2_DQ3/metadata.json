@@ -1,0 +1,19 @@
+{
+  "errata_id": "14b6a4696d6ca55136c577cd69bb4e5a2f1454486c6a108a101ea823a0ad5a0d",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:1-2-1",
+    "context-cnxmod:7adbd687-e755-4d66-8dd7-7c0f0daf7cea",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:1-2-social-media-trailblazer-selena-gomez"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00012"
+  ]
+}
