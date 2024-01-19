@@ -1,0 +1,19 @@
+{
+  "errata_id": "471a30c23b31118154bc3eb22099509c6531a1172eb21bc73e18b754b12aa8e2",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:6-2-2",
+    "context-cnxmod:18f4187b-b186-494f-b42a-ea78e1550079",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:6-2-proposal-trailblazer-atul-gawande"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00060"
+  ]
+}
