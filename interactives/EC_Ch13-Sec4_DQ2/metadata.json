@@ -1,0 +1,19 @@
+{
+  "errata_id": "fd6483198e67b7bf0aa6dc6e863190f673c628190c1b7bd048d74a62f971752e",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:1a89ae3e-4118-4ad4-96b5-a0ccf6e3f80a",
+    "lo:stax-engcomp:13-4-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:13-4-annotated-student-sample-research-log"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00128"
+  ]
+}
