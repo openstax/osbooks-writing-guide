@@ -1,0 +1,19 @@
+{
+  "errata_id": "a85174acabfeeffb3fb89a58bb0df02d0407ecea4da375701a79797032514ed4",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:2-4-1",
+    "context-cnxmod:280b20b4-e625-437a-bb21-f1c783dc8f0a",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:2-4-annotated-sample-reading-from-the-souls-of-black-folk-by-w-e-b-du-bois"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00023"
+  ]
+}
