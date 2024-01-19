@@ -1,0 +1,19 @@
+{
+  "errata_id": "492225b9cdc3ca571c43ade55e8ecae658a43d0e6b4e5ccbffcf085ea4bec4d1",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:20-4-1",
+    "context-cnxmod:217e8f17-2eea-4e47-ad6a-0ef4e859f6d6",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:20-4-annotated-sample-reading-dont-expect-congrats-by-dale-trumbore"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00179"
+  ]
+}
