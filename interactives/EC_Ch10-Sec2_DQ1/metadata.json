@@ -1,0 +1,19 @@
+{
+  "errata_id": "aeb80ca8e9013c021800424bea5da21e73a9bd39b743c6cd8ee5c9e089bb296f",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:10-2-2",
+    "context-cnxmod:56820452-e31a-4304-9e0d-8d228aa364e4",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:10-2-position-argument-trailblazer-charles-blow"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00100"
+  ]
+}
