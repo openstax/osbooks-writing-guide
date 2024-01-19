@@ -1,0 +1,19 @@
+{
+  "errata_id": "bfd6ea6ed044093fa01df8c06f244b368005c6e20eb5dff7c2bed5425393c6e5",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:3-4-1",
+    "context-cnxmod:b1f2ab5b-3811-44f9-98e1-cf99994de4d5",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:3-4-annotated-sample-reading-from-narrative-of-the-life-of-frederick-douglass-by-frederick-douglass"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00032"
+  ]
+}
