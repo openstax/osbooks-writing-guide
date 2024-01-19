@@ -1,0 +1,19 @@
+{
+  "errata_id": "34213ba12b7fbd975322591ebc7f89a52e7d34ad7256003d51521b52c3a48453",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:68b222c5-bbf7-4615-bd9e-51fa281c6223",
+    "lo:stax-engcomp:16-4-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:16-4-annotated-student-sample-artists-at-work-by-gwyn-garrison"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00150"
+  ]
+}
