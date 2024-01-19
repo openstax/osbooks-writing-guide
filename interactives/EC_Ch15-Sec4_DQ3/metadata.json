@@ -1,0 +1,19 @@
+{
+  "errata_id": "6feb17e87df644d30b166a48b3af91237489e63e2dd8f253f122ca87d4b43e9c",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:0867e263-9025-4367-9da1-71d175c1ad80",
+    "lo:stax-engcomp:15-4-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:15-4-annotated-sample-reading-case-study-on-louis-victor-tan-leborgne"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00140"
+  ]
+}
