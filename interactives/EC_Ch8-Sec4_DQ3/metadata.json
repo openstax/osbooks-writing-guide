@@ -1,0 +1,19 @@
+{
+  "errata_id": "f303f97b5d00c9fac9be7f477b069f784c98129dec164f1f92c4fd34ebf4d4a8",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:43e4e091-cca7-4218-8878-bf0a57b8b9c5",
+    "lo:stax-engcomp:8-4-3",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:8-4-annotated-student-sample-u-s-response-to-covid-19-by-trevor-garcia"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00082"
+  ]
+}
