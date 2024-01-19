@@ -1,0 +1,19 @@
+{
+  "errata_id": "56ed85811d53cda50fa0583c7e3f4fbde02c759b1a0e8fd00d75dd23ffa37631",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:5-2-3",
+    "context-cnxmod:f8e48d56-e099-4f14-8570-cf8f419ae217",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:5-2-profile-trailblazer-veronica-chambers"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00050"
+  ]
+}
