@@ -1,0 +1,19 @@
+{
+  "errata_id": "23a47fcac9cca9acbba0f6a16925436a0d5175ed8bb7182a2ce0e4364c0552e9",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:16-2-1",
+    "context-cnxmod:b5cfae50-de29-4daa-9336-63b51c600825",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:16-2-textual-analysis-trailblazer-bell-hooks"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00148"
+  ]
+}
