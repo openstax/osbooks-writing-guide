@@ -1,0 +1,19 @@
+{
+  "errata_id": "21b8bf810e140ae5ebadd8b02ef34d4b90568183255c33614d119c575c75fd3f",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:0f79eb84-7bcb-414d-aec5-7c5d44f8aa14",
+    "lo:stax-engcomp:17-2-2",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:17-2-image-trailblazer-sara-ludy"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00158"
+  ]
+}
