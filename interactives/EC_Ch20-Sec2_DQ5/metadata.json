@@ -1,0 +1,19 @@
+{
+  "errata_id": "fa42ccf383bc181b5187f09c29dab40d7b00287f0a13e12356904e1349a2f782",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:7cfce7f9-44ac-4684-bd89-c1ab9a1d7d48",
+    "lo:stax-engcomp:20-2-2",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:20-2-reflection-trailblazer-sandra-cisneros"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00177"
+  ]
+}
