@@ -1,0 +1,19 @@
+{
+  "errata_id": "b394ef1c9fdf9f3de9a36d1d4e1a8127d897ce5f3fb8565ad887b32f4cd5e29e",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:183017fa-e441-4f1f-9ef9-3aa85248b109",
+    "lo:stax-engcomp:7-2-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:7-2-review-trailblazer-michiko-kakutani"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00070"
+  ]
+}
