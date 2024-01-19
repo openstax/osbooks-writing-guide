@@ -1,0 +1,19 @@
+{
+  "errata_id": "057e92da44d07ba4f922c7f8c686cabc04efd864d312739917167b54e7b691c6",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:bff4f751-1e36-45fe-b2de-ffa6a15936b5",
+    "lo:stax-engcomp:18-4-3",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:18-4-annotated-sample-reading-celebrating-a-win-win-by-alexandra-dapolito-dunn"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00005"
+  ]
+}
