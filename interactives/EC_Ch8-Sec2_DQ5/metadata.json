@@ -1,0 +1,19 @@
+{
+  "errata_id": "6b0374205cff5a12fcbb02ebc3463a8d54995648ee8d45fb394c9c814dc10b5b",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:8-2-3",
+    "context-cnxmod:fdb367b8-3cbb-4336-a64a-901c8debade6",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:8-2-analytical-report-trailblazer-barbara-ehrenreich"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00080"
+  ]
+}
