@@ -1,0 +1,19 @@
+{
+  "errata_id": "c08457a9b44b1ec69c9e533dc9bc7eb639e47fe81a6d7b64b5928139062fe5ce",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:1-4-2",
+    "context-cnxmod:d15a3db0-6cf5-4936-badc-46b36b790a15",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:1-4-annotated-student-sample-social-media-post-and-responses-on-voter-suppression"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00014"
+  ]
+}
