@@ -1,0 +1,19 @@
+{
+  "errata_id": "13f3db0e03a7446a724cb90d6a2a1605d5512e23ec99ef40c6b149388ee01611",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:eb0711bf-9e20-4fdc-a7f6-b2a879722e0e",
+    "lo:stax-engcomp:2-2-2",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:2-2-identity-trailblazer-cathy-park-hong"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00021"
+  ]
+}
