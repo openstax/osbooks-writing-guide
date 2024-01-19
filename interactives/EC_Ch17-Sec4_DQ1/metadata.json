@@ -1,0 +1,19 @@
+{
+  "errata_id": "1000fc6e1d5e15a38c12ab6ed8d325bbeeec1d7e581bff9525cbf3c6a064e809",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:17-4-3",
+    "context-cnxmod:4a909da6-0e47-4fac-acc5-3e0d39628ed6",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:17-4-annotated-student-sample-hints-of-the-homoerotic-by-leo-davis"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00160"
+  ]
+}
