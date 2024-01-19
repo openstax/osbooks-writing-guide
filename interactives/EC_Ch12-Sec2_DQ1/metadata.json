@@ -1,0 +1,19 @@
+{
+  "errata_id": "1c6bfdecc83e7408feb074268d2b3eef23c668041117bb5f8d1019e90a7a4bb7",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:12-2-1",
+    "context-cnxmod:7ba0ec4d-7234-4da6-ae5c-67f1a904b0a7",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:12-2-argumentative-research-trailblazer-samin-nosrat"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00116"
+  ]
+}
