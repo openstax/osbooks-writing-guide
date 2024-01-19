@@ -1,0 +1,19 @@
+{
+  "errata_id": "a4e60d4ffc512397378a8977fec14bf083e43591fec3c2151cb84d74766d0394",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:11-2-2",
+    "context-cnxmod:677f16b6-95c6-4f47-9b6a-8739e89cf7cb",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:11-2-reasoning-trailblazer-paul-d-n-hebert"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00110"
+  ]
+}
