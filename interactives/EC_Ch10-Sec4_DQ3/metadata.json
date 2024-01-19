@@ -1,0 +1,19 @@
+{
+  "errata_id": "11f2d8bacac7004f8cb29f39ea08a628cd5006897a09491d2d54316330febf4f",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:10-4-3",
+    "context-cnxmod:6b686fe5-9108-4574-b104-0230d02a9b6d",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:10-4-annotated-sample-reading-remarks-at-the-university-of-michigan-by-lyndon-b-johnson"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00102"
+  ]
+}
