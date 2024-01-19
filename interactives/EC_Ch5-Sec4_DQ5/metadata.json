@@ -1,0 +1,19 @@
+{
+  "errata_id": "51a7565e5a8a2e3b65dd068be86d37adc603c0930d49656298c4b809c749c3b5",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:5-4-2",
+    "context-cnxmod:23b2c938-c515-4a7a-ab94-f5a715b47df5",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:5-4-annotated-sample-reading-remembering-john-lewis-by-carla-d-hayden"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00052"
+  ]
+}
