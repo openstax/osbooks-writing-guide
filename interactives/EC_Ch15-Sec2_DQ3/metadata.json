@@ -1,0 +1,19 @@
+{
+  "errata_id": "834530d5e3c731611670cb11dc5b40ab0fdfb59a43dc293b0aa3d9f26163ace7",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:44faabe3-56b7-47a7-959a-3e7b51b68701",
+    "lo:stax-engcomp:15-2-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:15-2-case-study-trailblazer-vilayanur-s-ramachandran"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00138"
+  ]
+}
