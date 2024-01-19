@@ -1,0 +1,19 @@
+{
+  "errata_id": "d32e2eaf09d3bf3328f6485ba7f6c1590421099eb2c548a3c67ed92a6042b0cd",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:19-2-2",
+    "context-cnxmod:9f0f5176-c16f-4ecf-bff6-88fdb854da42",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:19-2-podcast-trailblazer-alice-wong"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00168"
+  ]
+}
