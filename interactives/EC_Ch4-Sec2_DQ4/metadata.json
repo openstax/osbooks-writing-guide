@@ -1,0 +1,19 @@
+{
+  "errata_id": "41b0fe94fe120d500bcbaf604bbe5a971ea8287fe5434fdf323c4c9c88bf2449",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:4-2-1",
+    "context-cnxmod:3ad6ca56-175c-44fd-8e5f-678336fdcd5d",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:4-2-memoir-trailblazer-ta-nehisi-coates"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00040"
+  ]
+}
