@@ -1,0 +1,19 @@
+{
+  "errata_id": "be7cf6c9643491b9c5f03849185f70dad0bccd45c04121cf91f8c661735fc5d3",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:36a002d4-b214-421e-88bb-63062f7710ca",
+    "lo:stax-engcomp:6-4-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:6-4-annotated-student-sample-slowing-climate-change-by-shawn-krukowski"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00062"
+  ]
+}
