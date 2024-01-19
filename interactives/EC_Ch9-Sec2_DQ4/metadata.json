@@ -1,0 +1,19 @@
+{
+  "errata_id": "7d5aebf0a1b006bf650005e21ed8d11de22de07879f12a7f34c345a14a0e8061",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:5be06b4b-f400-4033-aca7-c3af0767a83a",
+    "lo:stax-engcomp:9-2-2",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:9-2-rhetorical-analysis-trailblazer-jamil-smith"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00090"
+  ]
+}
