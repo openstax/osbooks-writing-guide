@@ -1,0 +1,19 @@
+{
+  "errata_id": "f0be73898cb4fcc5f2f0b4512941f9b053df51897a9c9eedbbbcf0349e13a752",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:2c3e68b1-188b-48c0-86b9-29e528a400e7",
+    "lo:stax-engcomp:18-2-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:18-2-multimodal-trailblazer-torika-bolatagici"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00003"
+  ]
+}
