@@ -1,0 +1,19 @@
+{
+  "errata_id": "30bdde6e67f84c8f4f2f0c3d7b502ebe712a2c9e113b536165312ab826582d36",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "context-cnxmod:f6f570e7-d8c1-4f74-8b81-f62fadaa83a3",
+    "lo:stax-engcomp:3-2-1",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:3-2-literacy-narrative-trailblazer-tara-westover"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00030"
+  ]
+}
