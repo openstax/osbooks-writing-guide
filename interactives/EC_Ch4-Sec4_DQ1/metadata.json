@@ -1,0 +1,19 @@
+{
+  "errata_id": "3fa9822f22c24a6fa9108369f31c47ad4cabee517e35c9d45461ba93b7bb736f",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:4-4-1",
+    "context-cnxmod:bf6d9dd5-578c-423d-9885-6fecb275f540",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:4-4-annotated-sample-reading-from-life-on-the-mississippi-by-mark-twain"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00042"
+  ]
+}
