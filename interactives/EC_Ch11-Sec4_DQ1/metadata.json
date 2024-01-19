@@ -1,0 +1,19 @@
+{
+  "errata_id": "1193c7efa25ee47490c534643554417c407f8f02ffac61a2fd52389340871513",
+  "attachments": [],
+  "tags": [
+    "book:stax-writing-guide",
+    "lo:stax-engcomp:11-4-2",
+    "context-cnxmod:12447add-9abd-41b3-bf25-1ba0ab654061",
+    "book-slug:writing-guide",
+    "module-slug:writing-guide:11-4-annotated-sample-reading-from-book-vii-of-the-republic-by-plato"
+  ],
+  "books": [
+    {
+      "name": "stax-writing-guide"
+    }
+  ],
+  "context": [
+    "m00112"
+  ]
+}
