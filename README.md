@@ -7,7 +7,7 @@ _Writing Guide with Handbook_ is a textbook published by [OpenStax](https://open
 The book can be viewed [online](https://openstax.org/details/books/writing-guide), where you can also see a list of contributors.
 
 ## License
-_Writing Guide with Handbook_ is available under the [Creative Commons Attribution License](./LICENSE) license.
+_Writing Guide with Handbook_ is available under the [Creative Commons Attribution-NonCommercial-ShareAlike License](./LICENSE) license.
 
 ## Support
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).

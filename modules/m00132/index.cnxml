@@ -220,13 +220,13 @@
     </list>
     <figure id="fig-00011"><media alt="A triple Venn diagram shows overlapping circles labeled “Artificial Intelligence,” “Regulations,” and “Ethics.” An arrow points to the place where the three circles overlap.">
     <image mime-type="image/png" src="../../media/COMP_Figure_14_01_014.png"/></media>
-    <caption>Search results for AND (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <caption>Search results for AND (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption></figure>
     <list list-type="bulleted" id="list-00006">
     <item>Use <emphasis effect="bold">OR</emphasis> to connect two or more similar concepts and broaden your results, telling the search engine that any of your search terms can appear in the results it gives you. The Boolean operator OR is represented by <link target-id="fig-00012" document="m00132"/>. Using the OR operator gives you a very large set of results.</item>
     </list>
     <figure id="fig-00012"><media alt="A triple Venn diagram shows overlapping circles labeled “Artificial Intelligence,” “Regulations,” and “Ethics.” A bracket encloses all three circles.">
     <image mime-type="image/png" src="../../media/COMP_Figure_14_01_015.png"/></media>
-    <caption>Search results for OR (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption></figure>
+    <caption>Search results for OR (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)</caption></figure>
     <list list-type="bulleted" id="list-00007">
     <item>Use <emphasis effect="bold">NOT</emphasis> to exclude results from a search. This operator can help you narrow your search, telling the search engine to ignore names or words you do not want included in your results. For example, if you know you don’t want self-driving cars in your search results, you might search for <emphasis effect="italics">“artificial intelligence” NOT “self-driving cars”</emphasis>.</item>
     </list>
